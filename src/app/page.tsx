@@ -31,7 +31,7 @@ export default function Home() {
               className="lg:w-1/2 space-y-6"
             >
               <motion.h1 variants={fadeInUp} className="text-4xl lg:text-6xl font-bold leading-tight">
-                Hi, I'm <span className="text-yellow-400">Josh Cheetham</span>
+                Hi, I&apos;m <span className="text-yellow-400">Josh Cheetham</span>
               </motion.h1>
               <motion.div variants={fadeInUp}>
                 <ReactTyped
@@ -125,7 +125,7 @@ export default function Home() {
           </h2>
           <p className="text-lg leading-relaxed text-gray-300">
             With over a decade of experience in coaching and network marketing,
-            I've guided countless individuals to discover their full potential.
+            I&apos;ve guided countless individuals to discover their full potential.
             My mission is to empower others to achieve success through personal
             branding, strategic leadership, and sustainable growth strategies.
           </p>
@@ -205,7 +205,7 @@ export default function Home() {
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
               Take the first step towards unprecedented growth and success.
-              Let's work together to achieve your business goals.
+              Let&apos;s work together to achieve your business goals.
             </p>
             <Button
               size="lg"
